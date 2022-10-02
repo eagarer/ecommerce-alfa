@@ -27,16 +27,19 @@ export const categories = [
     id: 1,
     img: "https://cdn.sorsware.com/oxxo/ContentImages/Product/21k/21KOX-EKOCEKGOM/ekoseli-gomlek-ceket_cerulean-check-mavi_1_buyuk.jpg",
     title: "SHIRT STYLE!",
+    cat: "women",
   },
   {
     id: 2,
     img: "https://cdn.sorsware.com/oxxo/ContentImages/Product/22k/22KOX-CUPNEWTOP/soft-touch-sifir-yaka-tisort-modal-_black-siyah_1_buyuk.jpg",
     title: "LOUNGEWEAR LOVE",
+    cat: "coat",
   },
   {
     id: 3,
     img: "https://www.bodenimages.com/productimages/productxlarge/22wwin_u0066_blk.jpg",
     title: "LIGHT JACKETS",
+    cat: "jeans",
   },
 ];
 
