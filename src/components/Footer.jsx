@@ -120,13 +120,13 @@ const Footer = () => {
       <Right>
         <Title>Contact</Title>
         <ContactItem>
-            <Room style={{marginRight:"10px"}}/> 622 Dixie Path, South Tobinchester 98336
+            <Room style={{marginRight:"10px"}}/> İzmir Türkiye
         </ContactItem>
         <ContactItem>
-            <Phone style={{marginRight:"10px"}}/> +1 234 56 78
+            <Phone style={{marginRight:"10px"}}/> +90 554 442 43 26
         </ContactItem>
         <ContactItem>
-            <MailOutline style={{marginRight:"10px"}}/> contact@alfa.dev
+            <MailOutline style={{marginRight:"10px"}}/> erayagarer@gmail.com
         </ContactItem>
         <Payment src="https://www.transparentpng.com/thumb/payment-method/KWM0Hm-payment-method-bitcoin-photo.png" alt="payment method bitcoin photo @transparentpng.com" />
       </Right>
